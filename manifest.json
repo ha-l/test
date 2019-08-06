@@ -1,10 +1,7 @@
 {
 	"name": "Amazon Reviews",
-	"id": "amazon_reviews",
-	"author":  "Hannes Lehner",
+	"id": "amazon-reviews",
 	"version": "v1.0.0",
-	"channelback_files": "no",
-	"create_followup_tickets": "no",
 	"urls": {
 		"admin_ui": "https://github.com/ha-l/test",
 		"pull_url": "https://github.com/ha-l/test",
