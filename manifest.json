@@ -1,0 +1,13 @@
+{
+	"name": "Amazon Reviews",
+	"id": "amazon_reviews",
+	"push_client_id": "amazon_reviews",
+	"author":  "Hannes Lehner",
+	"version": "v1.0.0",
+	"channelback_files": "no",
+	"create_followup_tickets": "no",
+	"urls": {
+		"admin_ui": "https://script.google.com/macros/s/AKfycbzD_cIj-ahAhXalm5bM6RzgYteru3eMLL-XhzSJbD7BiK1xY1bn/exec?admin_ui=true",
+		"channelback_url": "https://script.google.com/macros/s/AKfycbzD_cIj-ahAhXalm5bM6RzgYteru3eMLL-XhzSJbD7BiK1xY1bn/exec"
+	}
+}
